@@ -35,7 +35,7 @@ O projeto é focado em **melhorar o raciocínio algorítmico** simulando o compo
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/test-table-app.git
+git clone https://github.com/chars3/test-table-app.git
 ```
 
 2. Instale as dependências:
